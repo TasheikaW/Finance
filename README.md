@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project focuses on building a machine learning model to predict loan grades (A to G) based on financial and borrower-related features from the [Lending Club Dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club). Accurate loan grading is critical for lenders to assess risk, determine interest rates, and make informed lending decisions. The dataset includes 76 features such as loan amount, interest rate, employment length, and credit history. The goal is to classify loans into their respective grades using a multinomial logistic regression model, addressing class imbalance and ensuring robust performance.
-
+[See code](Final_2.ipynb)
 ---
 
 ## Key Steps & Methodology
